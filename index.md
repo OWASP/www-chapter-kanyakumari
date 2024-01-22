@@ -7,6 +7,7 @@ region: Asia
 meetup-group:
 country: India
 postal-code: 629175
+
 ---
 
 # Welcome
@@ -17,7 +18,7 @@ Welcome to the Kanyakumari chapter homepage. Kanyakumari OWASP Chapter was start
 Everyone is welcome to attend and contribute their knowledge at any of the events, meetings, or seminars that are organised. Everyone is welcome to contribute their thoughts.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
@@ -44,7 +45,7 @@ Contact:
     - Abstract of the presentation
     - Presentation time required
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting/Event 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
